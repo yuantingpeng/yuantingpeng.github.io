@@ -5,21 +5,23 @@ comments: no
 ---
 
 ---
+
 ### 自我介绍
 
 {{ site.about }}
 
 专业打杂程序员，全栈工程师，擅长打杂，吹牛逼...
 
-关注 Linux kernel、Docker/Kubernetes、Networking、Distributed Storage...
+关注 Linux kernel、Docker/Kubernetes、Networking、CDN...
 
 
 ---
+
 ### 经历
 
-* 2004.09 ~ 2011.04 游学于武汉某985职业技术学院 —— 关山口职业技术学院
+* 2008.09 ~ 2015.09 游学于广州某985职业技术学院 —— 五山禅院
 
-* 2011.04 ~ Now     在深圳某国内前三互联网公司，从事搬砖、打杂等相关工作
+* 2015.09 ~ Now     在深圳某国内前三互联网公司，从事搬砖、打杂等相关工作
 
 
 ----
@@ -35,12 +37,12 @@ comments: no
 
 GitHub：[http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
 
-Twitter: [hustcat](https://twitter.com/hustcat)
+Twitter: [welsonzhang](https://twitter.com/welsonzhang)
 
-@cnblogs：[hustcat](http://hustcat.cnblogs.com)
+@csdnblogs：[welsonzhang](http://blog.csdn.net/al_xin)
 
 ----
 
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/1831504255/02345c5a/1.png)](http://weibo.com/u/1831504255?s=6uyXnP)
+[![新浪微博](http://tva4.sinaimg.cn/crop.211.0.537.537.180/8eca9a34jw1eb2y5dns1sj20qo0f0jvg.jpg)](http://www.weibo.com/p/1005052395642420/home?from=page_100505&mod=TAB&is_all=1#place)
 
 ----
