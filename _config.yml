@@ -1,16 +1,16 @@
 future: true
 permalink: /:title/
-url: http://hustcat.github.io
-name: YY哥
-author: hustcat
+url: http://yuantingpeng.github.io
+name: yuantingpeng
+author: yuantingpeng
 qq: 
-email: hustcat@gmail.com
-duoshuo: hustcat
+email: yuantingpeng@gmail.com
+duoshuo: yuantingpeng
 beian: 
 cnzz: 
-weibo: hustcat
-github: hustcat
+weibo: yuantingpeng
+github: yuantingpeng
 paginate: 20
 highlighter: rouge
 truncate: true
-about: "YY哥(hustcat)"
+about: "yuantingpeng"
